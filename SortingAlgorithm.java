@@ -1,4 +1,4 @@
-
+package Lesson5;
 
 /**
  * SortingAlgorithm is just a decorator for sorting.
@@ -8,5 +8,5 @@
  */
 public interface SortingAlgorithm {
 
-	void sort(int [] a);
+	void sort(int[] a);
 }
